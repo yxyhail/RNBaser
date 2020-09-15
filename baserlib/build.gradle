@@ -39,7 +39,7 @@ ext {
 
     publishedGroupId = 'com.yxyhail'
     libraryName = 'RNBaser'
-    artifact = "RNBaser"
+    artifact = "rn-baser"
     userOrg = 'yxyhail'
 
     libraryDescription = 'A RNBaser'
